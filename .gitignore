@@ -1,0 +1,8 @@
+# Brouillons de compléments : ils contiennent mes notes de cours
+complements-a-valider/
+
+# Réglages locaux de Claude Code
+.claude/settings.local.json
+
+# macOS
+.DS_Store
