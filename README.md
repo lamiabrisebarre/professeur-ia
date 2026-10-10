@@ -47,3 +47,16 @@ flowchart TD
 - Les tâches planifiées ne tournent que si le Mac est allumé et l'application ouverte.
 - Les dates de la méthode des J sont décalées au premier créneau libre, pas suivies au jour près.
 - Les rappels ne fonctionnent que sur macOS.
+
+
+## Prochaines améliorations
+
+Des pistes que je n'active pas encore : chacune dépend de ce que l'usage réel montrera.
+
+| Amélioration | Ce que j'attends avant de la lancer |
+|---|---|
+| **Compléments écrits sans mon accord.** L'agent écrirait directement dans Notion, sans passer par le brouillon. | Plusieurs propositions de suite validées sans aucune correction de ma part. |
+| **Tâches dans le cloud.** Elles tourneraient même Mac éteint. | Trouver comment leur donner accès aux règles de `CLAUDE.md` sans mon dossier local. |
+| **Créneaux et rythme ajustés.** Heures des rappels, durée des séances, nombre de soirs par semaine. | Quelques semaines de pratique, pour voir quelles séances je saute. |
+| **Mélange des cours en révision.** Vérifier que `/revise` interroge bien sur plusieurs cours à la fois. | Avoir au moins deux cours dans « Suivi de révision ». |
+| **Mode « préparation d'examen ».** Une révision intensive sur un cours, à l'approche d'une date. | Connaître mon calendrier d'examens. |
